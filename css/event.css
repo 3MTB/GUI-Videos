@@ -1,0 +1,13 @@
+body{
+    background-color: #000;
+    color: #fff;
+    box-sizing: border-box;
+}
+#info{
+    user-select: text;
+    width: 100px;
+    height: max-content;
+    background-color: #000000bd;
+    color: #ff0;
+    border: .2px inset red;
+}
